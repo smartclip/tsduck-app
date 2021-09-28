@@ -1,0 +1,7 @@
+SERVER_PORT=3001
+DB_ADDRESS=mongodb://127.0.0.1/my_database
+TUNING_FILE_PATH=data/tsFiles/tuning/channels.xml
+DELIVERY_SYSTEM=DVB-T2
+DATA_INPUT_DIR=data/tsFiles/input/
+DATA_OUTPUT_DIR=data/tsFiles/output/
+SESSION_LENGTH_MIN=60
